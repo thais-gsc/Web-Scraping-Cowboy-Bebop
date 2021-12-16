@@ -1,0 +1,20 @@
+Thu Dec  9 22:30:24 2021
+Contador positivo: 15
+Contador negativo: 3
+Media: 6.8
+
+Sat Dec 11 21:28:06 2021
+Contador positivo: 8
+Contador negativo: 4
+Media: 8.08
+
+Mon Dec 13 21:50:13 2021
+Contador positivo: 13
+Contador negativo: 2
+Media: 7.28
+
+Wed Dec 15 22:16:16 2021
+Contador positivo: 16
+Contador negativo: 4
+Media: 6.32
+
